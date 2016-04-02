@@ -1,1 +1,5 @@
-csal;cmsac;asm
+{
+  "dependencies": {
+    "underscore": "1.8.3"
+  }
+}
